@@ -6,8 +6,7 @@ int main(){
 	int nome;
 
 	printf("Hello world");
-	printf("Qual seu nome?");
-
+	//ZORO SOLOU//
 
 	return 0;
 }
