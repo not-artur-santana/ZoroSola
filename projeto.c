@@ -6,7 +6,7 @@ int main(){
 	int nome;
 
 	printf("Hello world");
-	//ZORO SOLOU//
+	
 
 	return 0;
 }
